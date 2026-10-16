@@ -2,7 +2,7 @@
 
 Free Water Delivery App for Port Moresby customers and watercart owners.
 
-### Download Latest Version v1.0.4
+### Download Latest Version v1.0.5
 Go to Releases -> Download APK
 
 No Play Store needed. 100% Free.
